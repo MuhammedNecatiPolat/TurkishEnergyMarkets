@@ -2,3 +2,7 @@ data
 .venv
 __pycache__
 autogluon-m4-hourly
+AutogluonModels
+basic_model
+agModels*
+volume_forecast*
